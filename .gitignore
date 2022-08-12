@@ -81,7 +81,7 @@ venv
 # Emacs
 .projectile
 
-#personal stuff
+##personal stuff
 mongodbversion/TravPos
 
 kivy/setupconfig.py
